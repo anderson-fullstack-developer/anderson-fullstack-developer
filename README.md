@@ -1,92 +1,15 @@
-<div align="center">
+# Olá! Eu sou o Anderson Neto 👋
 
-# 👋 Olá, eu sou o Anderson Neto
+### Junior Full-Stack Developer | React | Next.js | TypeScript | Node.js
 
-### Junior Full-Stack Developer
+Sou Junior Full-Stack Developer em Lisboa, Portugal 🇵🇹
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+REST+APIs+%7C+PostgreSQL;Full-Stack+Developer+%F0%9F%9A%80"
-  alt="Typing SVG"
-/>
+Tenho experiência prática no desenvolvimento de aplicações web full-stack,
+APIs REST, autenticação, integração com bases de dados e construção de
+sistemas orientados a necessidades reais de negócio.
 
-<br>
-
-📍 Lisboa, Portugal 🇵🇹
-
-<br><br>
-
-<a href="https://linkedin.com/in/anderson-fullstack-developer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://andersonneto.gt.tc">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="https://github.com/anderson-fullstack-developer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou **Junior Full-Stack Developer** com experiência prática no desenvolvimento
-de aplicações web, APIs REST, autenticação, operações CRUD e integração
-com bases de dados.
-
-Trabalho principalmente com:
-
-- React
-- Next.js
-- TypeScript
-- Node.js
-- PostgreSQL
-- MySQL
-
-Também tenho experiência com PHP, C#, .NET, MongoDB e SQL Server.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=anderson-fullstack-developer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-fullstack-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=anderson-fullstack-developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-/>
-
-</div>
+Atualmente continuo a desenvolver as minhas competências em desenvolvimento
+Full-Stack e a construir projetos para evoluir profissionalmente.
 
 ---
 
@@ -94,105 +17,36 @@ Também tenho experiência com PHP, C#, .NET, MongoDB e SQL Server.
 
 ### Frontend
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,cs,dotnet" />
+### Databases
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Bases de Dados
+### Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-
-</div>
-
-### Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
-
-</div>
-
----
-
-## 🔥 Projetos em Destaque
-
-### 🛒 STP Market
-
-Marketplace multi-vendedor para gestão de produtos, encomendas,
-vendedores, comissões e pagamentos.
-
-**Stack**
-
-`Next.js` `TypeScript` `PostgreSQL` `REST API` `Stripe` `Brevo` `Cloudinary`
-
----
-
-### 🎮 FF Arena
-
-Plataforma P2P com autenticação, matchmaking, torneios,
-gestão de carteiras, pagamentos e resolução de disputas.
-
-**Stack**
-
-`Next.js` `TypeScript` `MySQL` `Stripe API`
-
----
-
-### 📊 Brand22 CRM
-
-CRM interno para centralização de dados de clientes
-e processos de negócio.
-
-**Stack**
-
-`React` `Node.js` `TypeScript` `REST API` `PostgreSQL`
-
----
-
-### 🤖 Assistente Virtual CIMAT
-
-Assistente virtual desenvolvido para melhorar o acesso
-a informações e a navegação no website institucional da CIMAT.
-
-**Stack**
-
-`HTML5` `CSS3` `JavaScript` `PHP` `REST API` `MySQL`
-
----
-
-### 🌱 Sistema de Gestão Agrícola
-
-Sistema desktop para centralizar e organizar dados
-relacionados com operações agrícolas.
-
-**Stack**
-
-`C#` `.NET` `SQL Server` `Visual Studio`
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=anderson-fullstack-developer&theme=tokyo-night&hide_border=true&area=true"
-  width="95%"
-/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -200,22 +54,117 @@ relacionados com operações agrícolas.
 
 ### Full-Stack Developer Intern — Brand22
 
-`Maio 2026 - Julho 2026`
+**Maio 2026 – Julho 2026**
 
-- Desenvolvimento de aplicações Full-Stack
-- React, Next.js e TypeScript no frontend
-- Node.js no backend
-- Desenvolvimento de APIs REST
-- Autenticação e operações CRUD
-- PostgreSQL
-- Dashboards e sistemas internos
+- Desenvolvimento de aplicações web Full-Stack.
+- Frontend com React, Next.js e TypeScript.
+- Backend com Node.js.
+- Desenvolvimento de APIs REST.
+- Implementação de autenticação e operações CRUD.
+- Integração com PostgreSQL.
+- Desenvolvimento de dashboards e sistemas internos de negócio.
 
 ---
 
-## 🎓 Formação & Certificações
+## 🔥 Projetos em Destaque
+
+### 🛒 STP Market
+
+Marketplace multi-vendedor desenvolvido para gestão de produtos,
+encomendas e vendedores.
+
+Principais funcionalidades:
+
+- Marketplace multi-vendedor
+- Gestão de produtos
+- Gestão de encomendas
+- Sistema de comissões
+- Pagamentos com Stripe
+- Integração com Brevo
+- Upload e gestão de imagens com Cloudinary
+
+**Tecnologias:**
+
+`Next.js` `TypeScript` `PostgreSQL` `REST API` `Stripe` `Brevo` `Cloudinary`
+
+---
+
+### 🎮 FF Arena
+
+Plataforma de jogos P2P com funcionalidades competitivas e financeiras.
+
+Principais funcionalidades:
+
+- Autenticação
+- Matchmaking
+- Torneios
+- Carteiras
+- Pagamentos
+- Gestão de disputas
+
+**Tecnologias:**
+
+`Next.js` `TypeScript` `MySQL` `Stripe API`
+
+---
+
+### 📊 Brand22 CRM
+
+CRM interno desenvolvido para centralizar dados de clientes
+e processos de negócio.
+
+Principais funcionalidades:
+
+- Gestão de clientes
+- Autenticação
+- Processos internos
+- Fluxos de trabalho personalizados
+- Integração com PostgreSQL
+
+**Tecnologias:**
+
+`React` `Node.js` `TypeScript` `REST API` `PostgreSQL`
+
+---
+
+### 🤖 Assistente Virtual CIMAT
+
+Contribuí para o desenvolvimento de um assistente virtual para o
+website institucional da Comunidade Intermunicipal do Alto Tâmega
+e Barroso.
+
+O objetivo foi melhorar o acesso dos visitantes às informações
+e facilitar a navegação no website.
+
+**Tecnologias:**
+
+`HTML5` `CSS3` `JavaScript` `PHP` `REST API` `MySQL`
+
+---
+
+### 🌱 Sistema de Gestão Agrícola
+
+Sistema desktop desenvolvido para centralizar e organizar
+dados relacionados com operações agrícolas.
+
+**Tecnologias:**
+
+`C#` `.NET` `SQL Server` `Visual Studio`
+
+---
+
+## 📊 GitHub Stats
+
+![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-fullstack-developer&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-fullstack-developer&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🎓 Formação
 
 **Técnico de Informática de Gestão**  
-Escola Profissional de Murça
+Escola Profissional de Murça — Vila Real, Portugal
 
 ### Certificações
 
@@ -231,24 +180,21 @@ Escola Profissional de Murça
 
 🇵🇹 Português — Nativo  
 🇬🇧 Inglês — A2  
-🇫🇷 Francês — A2
+🇫🇷 Francês — A2  
 
 ---
 
 ## 📫 Contacto
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-fullstack-developer)
 
-<a href="https://linkedin.com/in/anderson-fullstack-developer">
-  <img src="https://img.shields.io/badge/LinkedIn-Anderson_Neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andersonneto.gt.tc)
 
-<a href="https://andersonneto.gt.tc">
-  <img src="https://img.shields.io/badge/Portfólio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-fullstack-developer)
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=anderson-fullstack-developer&style=for-the-badge&color=blueviolet" />
+### 💡 Open to opportunities
 
-</div>
+Estou aberto a oportunidades como **Junior Full-Stack Developer**,
+**Frontend Developer** ou **Backend Developer**.
