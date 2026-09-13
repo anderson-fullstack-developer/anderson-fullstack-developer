@@ -2,14 +2,8 @@
 
 ### Junior Full-Stack Developer | React | Next.js | TypeScript | Node.js
 
-Sou Junior Full-Stack Developer em Lisboa, Portugal 🇵🇹
-
-Tenho experiência prática no desenvolvimento de aplicações web full-stack,
-APIs REST, autenticação, integração com bases de dados e construção de
-sistemas orientados a necessidades reais de negócio.
-
-Atualmente continuo a desenvolver as minhas competências em desenvolvimento
-Full-Stack e a construir projetos para evoluir profissionalmente.
+Desenvolvedor Full-Stack em Lisboa 🇵🇹  
+Focado em aplicações web, APIs REST e bases de dados.
 
 ---
 
@@ -50,137 +44,27 @@ Full-Stack e a construir projetos para evoluir profissionalmente.
 
 ---
 
-## 💼 Experiência
-
-### Full-Stack Developer Intern — Brand22
-
-**Maio 2026 – Julho 2026**
-
-- Desenvolvimento de aplicações web Full-Stack.
-- Frontend com React, Next.js e TypeScript.
-- Backend com Node.js.
-- Desenvolvimento de APIs REST.
-- Implementação de autenticação e operações CRUD.
-- Integração com PostgreSQL.
-- Desenvolvimento de dashboards e sistemas internos de negócio.
-
----
-
-## 🔥 Projetos em Destaque
-
-### 🛒 STP Market
-
-Marketplace multi-vendedor desenvolvido para gestão de produtos,
-encomendas e vendedores.
-
-Principais funcionalidades:
-
-- Marketplace multi-vendedor
-- Gestão de produtos
-- Gestão de encomendas
-- Sistema de comissões
-- Pagamentos com Stripe
-- Integração com Brevo
-- Upload e gestão de imagens com Cloudinary
-
-**Tecnologias:**
-
-`Next.js` `TypeScript` `PostgreSQL` `REST API` `Stripe` `Brevo` `Cloudinary`
-
----
-
-### 🎮 FF Arena
-
-Plataforma de jogos P2P com funcionalidades competitivas e financeiras.
-
-Principais funcionalidades:
-
-- Autenticação
-- Matchmaking
-- Torneios
-- Carteiras
-- Pagamentos
-- Gestão de disputas
-
-**Tecnologias:**
-
-`Next.js` `TypeScript` `MySQL` `Stripe API`
-
----
-
-### 📊 Brand22 CRM
-
-CRM interno desenvolvido para centralizar dados de clientes
-e processos de negócio.
-
-Principais funcionalidades:
-
-- Gestão de clientes
-- Autenticação
-- Processos internos
-- Fluxos de trabalho personalizados
-- Integração com PostgreSQL
-
-**Tecnologias:**
-
-`React` `Node.js` `TypeScript` `REST API` `PostgreSQL`
-
----
-
-### 🤖 Assistente Virtual CIMAT
-
-Contribuí para o desenvolvimento de um assistente virtual para o
-website institucional da Comunidade Intermunicipal do Alto Tâmega
-e Barroso.
-
-O objetivo foi melhorar o acesso dos visitantes às informações
-e facilitar a navegação no website.
-
-**Tecnologias:**
-
-`HTML5` `CSS3` `JavaScript` `PHP` `REST API` `MySQL`
-
----
-
-### 🌱 Sistema de Gestão Agrícola
-
-Sistema desktop desenvolvido para centralizar e organizar
-dados relacionados com operações agrícolas.
-
-**Tecnologias:**
-
-`C#` `.NET` `SQL Server` `Visual Studio`
-
----
-
 ## 📊 GitHub Stats
 
-![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-fullstack-developer&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-fullstack-developer&layout=compact&theme=github_dark&hide_border=true)
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=anderson-fullstack-developer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
----
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-fullstack-developer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-## 🎓 Formação
+</div>
 
-**Técnico de Informática de Gestão**  
-Escola Profissional de Murça — Vila Real, Portugal
+<br>
 
-### Certificações
+<div align="center">
 
-- Meta Full-Stack Developer — em curso
-- TypeScript in React
-- Git for Developers
-- API Testing / Postman
-- Introdução ao JavaScript
+<img
+src="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=github-dark-blue&hide_border=true"
+/>
 
----
-
-## 🌍 Idiomas
-
-🇵🇹 Português — Nativo  
-🇬🇧 Inglês — A2  
-🇫🇷 Francês — A2  
+</div>
 
 ---
 
@@ -188,7 +72,7 @@ Escola Profissional de Murça — Vila Real, Portugal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-fullstack-developer)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andersonneto.gt.tc)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andersonneto.gt.tc)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-fullstack-developer)
 
@@ -196,5 +80,4 @@ Escola Profissional de Murça — Vila Real, Portugal
 
 ### 💡 Open to opportunities
 
-Estou aberto a oportunidades como **Junior Full-Stack Developer**,
-**Frontend Developer** ou **Backend Developer**.
+Aberto a oportunidades como **Junior Full-Stack Developer**, **Frontend Developer** ou **Backend Developer**.
