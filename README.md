@@ -1,60 +1,62 @@
-# Olá! Eu sou o Anderson Neto 👋
+# Anderson Neto
 
-### Junior Full-Stack Developer | React | Next.js | TypeScript | Node.js
+### Junior Full-Stack Developer · React · Next.js · TypeScript · Node.js · NestJS
 
-Desenvolvedor Full-Stack em Lisboa 🇵🇹  
-Focado em aplicações web, APIs REST e bases de dados.
+Based in **Lisbon, Portugal**. I build full-stack web applications with a focus on business systems, REST APIs, authentication, databases and payment integrations.
 
----
+I completed a Full-Stack Development internship at **Brand22**, where I worked on web applications, internal systems, APIs, authentication, CRUD operations, dashboards and database integrations.
 
-## 🚀 Tech Stack
+## Selected work
 
-### Frontend
+### Brand22 CRM — Professional project
+Internal CRM developed during my experience at Brand22 to centralize client data and business processes.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**React · Node.js · TypeScript · REST APIs · PostgreSQL**
 
-### Backend
+### Assistente Virtual CIMAT — Institutional project
+Virtual assistant integrated into the official website of the Comunidade Intermunicipal do Alto Tâmega e Barroso.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**JavaScript · PHP · REST APIs · MySQL**  
+[Live website](https://cimat.pt/)
 
-### Databases
+### STP Market — Multi-vendor Marketplace
+Marketplace connecting products from São Tomé and Príncipe with customers in Portugal, with vendor management, orders, commissions and Stripe payments.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Next.js · TypeScript · PostgreSQL · Prisma · Stripe · Cloudinary · Brevo**  
+[Repository](https://github.com/anderson-fullstack-developer/ecommerce-marketplace) · [Live demo](https://stp-teal.vercel.app)
 
-### Tools
+### FF Arena — P2P Gaming Platform
+Full-stack platform with authentication, matchmaking, tournaments, wallets, payments and dispute management.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+**Next.js · TypeScript · MySQL · Stripe**  
+[Repository](https://github.com/anderson-fullstack-developer/ff-arena) · [Live demo](https://ff-46mf.vercel.app/)
 
----
+### App Transfer — Full-Stack Transfer Simulation
+Full-stack monorepo built with a Next.js frontend and NestJS API, including authentication, RBAC, PostgreSQL, Prisma, Swagger, automated tests and CI.
 
+**Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Docker · GitHub Actions**  
+[Repository](https://github.com/anderson-fullstack-developer/app_transfer)
 
-## 📫 Contacto
+## Core stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-fullstack-developer)
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
+**Backend:** Node.js · NestJS · REST APIs · PHP · C# / .NET  
+**Databases:** PostgreSQL · MySQL · SQL Server · MongoDB · SQLite  
+**Tools & integrations:** Git · GitHub · Prisma · Postman · Stripe · Cloudinary · Vercel
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andersonneto.gt.tc)
+## What I work on
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-fullstack-developer)
+- Full-stack web applications
+- REST API design and integration
+- Authentication and authorization
+- CRUD and business workflows
+- Relational databases and data modelling
+- SaaS and internal business systems
+- Payment integrations
+- Responsive interfaces
 
----
+## Contact
 
-### 💡 Open to opportunities
+[Portfolio](https://andersonneto.gt.tc) · [LinkedIn](https://linkedin.com/in/anderson-fullstack-developer) · [GitHub](https://github.com/anderson-fullstack-developer)
 
-Aberto a oportunidades como **Junior Full-Stack Developer**, **Frontend Developer** ou **Backend Developer**.
+**Open to Junior Full-Stack, Frontend, Backend and Software Developer opportunities in Portugal.**
