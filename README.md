@@ -1,62 +1,59 @@
 # Anderson Neto
 
-### Junior Full-Stack Developer · React · Next.js · TypeScript · Node.js · NestJS
+### Full-Stack Developer · React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
 
-Based in **Lisbon, Portugal**. I build full-stack web applications with a focus on business systems, REST APIs, authentication, databases and payment integrations.
+Based in **Lisbon, Portugal**. I build web applications end to end — from React and Next.js interfaces to REST APIs and databases.
 
-I completed a Full-Stack Development internship at **Brand22**, where I worked on web applications, internal systems, APIs, authentication, CRUD operations, dashboards and database integrations.
+At **Brand22 Creative Agency** I built the agency's internal CRM and AI virtual assistants that are live on public-sector websites. I also build my own products around management, automation and real-time features.
 
 ## Selected work
 
-### Brand22 CRM — Professional project
-Internal CRM developed during my experience at Brand22 to centralize client data and business processes.
+### Brand22 CRM — in production
+Internal CRM for the agency: sales pipeline in kanban, leads, tasks with review between staff and admin, and a client portal to approve projects. Website leads arrive automatically through a webhook, and a daily cron sends proposal follow-ups.
 
-**React · Node.js · TypeScript · REST APIs · PostgreSQL**
+**React · TanStack Start · TypeScript · Vercel serverless API · MySQL · Resend**  
+Private repository (company project).
 
-### Assistente Virtual CIMAT — Institutional project
-Virtual assistant integrated into the official website of the Comunidade Intermunicipal do Alto Tâmega e Barroso.
+### Fala Neto — in development
+Mobile app to learn African languages, starting with Forro (São Tomé and Príncipe) and Kriolu (Cape Verde), with lessons, a daily challenge and a real-time multiplayer Arena. Monorepo with the app, the API and an admin panel; 114 tests and CI on every push.
 
-**JavaScript · PHP · REST APIs · MySQL**  
+**Expo / React Native · NestJS · PostgreSQL · Prisma · Socket.IO · Clerk · Turborepo · Vitest**  
+[Repository](https://github.com/anderson-fullstack-developer/app_stp)
+
+### Garimpo — real-time Vinted alerts
+Multi-user app where each user creates alerts with filters; listings are monitored in the background, deduplicated and sent to Telegram. Subscriptions with Stripe and 200+ automated tests.
+
+**Next.js · FastAPI · Python · PostgreSQL · Stripe · Telegram · Pytest · Docker**  
+[Repository](https://github.com/anderson-fullstack-developer/vinted)
+
+### CIMAT Virtual Assistant — in production
+AI assistant on the official website of the Comunidade Intermunicipal do Alto Tâmega e Barroso. The widget calls a WordPress REST route in PHP, so the AI key never reaches the browser. I also built the AMAT assistant and the Brand22 chatbot.
+
+**JavaScript · PHP · WordPress REST API · Claude API**  
 [Live website](https://cimat.pt/)
 
-### STP Market — Multi-vendor Marketplace
-Marketplace connecting products from São Tomé and Príncipe with customers in Portugal, with vendor management, orders, commissions and Stripe payments.
+### RHNeto Pro — final course project (20/20)
+Restaurant staff management: a management panel (staff, time clock, shifts, payroll with tips, holidays, reports) and an employee app on the same database.
+
+**PHP · MySQL · JavaScript · Stripe · Infobip (SMS) · Brevo**  
+[Repository](https://github.com/anderson-fullstack-developer/rhneto-pro)
+
+### STP Market — multi-vendor marketplace
+Marketplace for products from São Tomé and Príncipe, with vendor approval, orders, commissions and Stripe Checkout with an idempotent webhook.
 
 **Next.js · TypeScript · PostgreSQL · Prisma · Stripe · Cloudinary · Brevo**  
-[Repository](https://github.com/anderson-fullstack-developer/ecommerce-marketplace) · [Live demo](https://stp-teal.vercel.app)
+[Repository](https://github.com/anderson-fullstack-developer/ecommerce-marketplace) · [Live demo](https://stp-dusky.vercel.app)
 
-### FF Arena — P2P Gaming Platform
-Full-stack platform with authentication, matchmaking, tournaments, wallets, payments and dispute management.
-
-**Next.js · TypeScript · MySQL · Stripe**  
-[Repository](https://github.com/anderson-fullstack-developer/ff-arena) · [Live demo](https://ff-46mf.vercel.app/)
-
-### App Transfer — Full-Stack Transfer Simulation
-Full-stack monorepo built with a Next.js frontend and NestJS API, including authentication, RBAC, PostgreSQL, Prisma, Swagger, automated tests and CI.
-
-**Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Docker · GitHub Actions**  
-[Repository](https://github.com/anderson-fullstack-developer/app_transfer)
-
-## Core stack
+## Stack
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
-**Backend:** Node.js · NestJS · REST APIs · PHP · C# / .NET  
-**Databases:** PostgreSQL · MySQL · SQL Server · MongoDB · SQLite  
-**Tools & integrations:** Git · GitHub · Prisma · Postman · Stripe · Cloudinary · Vercel
-
-## What I work on
-
-- Full-stack web applications
-- REST API design and integration
-- Authentication and authorization
-- CRUD and business workflows
-- Relational databases and data modelling
-- SaaS and internal business systems
-- Payment integrations
-- Responsive interfaces
+**Backend:** Node.js · Express.js · NestJS · PHP · REST APIs  
+**Databases:** PostgreSQL · MySQL · Prisma  
+**Familiar with:** C# / .NET · Python · FastAPI  
+**Tools:** Docker · Git & GitHub · GitHub Actions · Vercel · AWS (learning)
 
 ## Contact
 
-[Portfolio](https://andersonneto.gt.tc) · [LinkedIn](https://linkedin.com/in/anderson-fullstack-developer) · [GitHub](https://github.com/anderson-fullstack-developer)
+[Portfolio](https://andersonneto.gt.tc) · [LinkedIn](https://linkedin.com/in/anderson-fullstack-developer) · [Email](mailto:andersonneto.dev.fullstack@gmail.com)
 
-**Open to Junior Full-Stack, Frontend, Backend and Software Developer opportunities in Portugal.**
+**Open to Full-Stack, Frontend and Backend Developer opportunities in Portugal.**  
