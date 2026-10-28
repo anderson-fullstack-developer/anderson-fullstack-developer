@@ -1,6 +1,6 @@
 # Anderson Neto
 
-### Full-Stack Developer · React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
+### Full-Stack Developer | React • Next.js • TypeScript • Node.js • Express.js • NestJS • PostgreSQL
 
 Based in **Lisbon, Portugal**. I build web applications end to end — from React and Next.js interfaces to REST APIs and databases.
 
