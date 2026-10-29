@@ -7,6 +7,6 @@ I build web products end to end: React and Next.js on the front end, Node.js, Ex
 
 **In production:** the internal CRM of Brand22 Creative Agency (sales pipeline, client portal, lead webhooks) and AI assistants on the [CIMAT](https://cimat.pt/) and AMAT public-sector websites.
 
-**Stack:** TypeScript · React · Next.js · React Native · Node.js · Express.js · NestJS · PostgreSQL · MySQL · Prisma · Redis · Docker · GitHub Actions
+**Stack:** TypeScript · React · Next.js · React Native · Node.js · Express.js · NestJS · PostgreSQL · REST & WebSocket APIs · Automated testing · CI/CD · AWS
 
 [Portfolio](https://andersonneto.gt.tc) · [LinkedIn](https://linkedin.com/in/anderson-fullstack-developer) · [Email](mailto:andersonneto.dev.fullstack@gmail.com) · Open to full-stack roles in Portugal and remote.
