@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Anderson Neto, Full-Stack Developer, Lisbon" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Anderson Neto, Full-Stack Developer, Lisbon" src="assets/header-light.svg" width="100%">
 </picture>
 
 I build web products end to end: interfaces in React and Next.js, APIs in Node.js, NestJS and FastAPI, relational data models, payments, real-time features and the CI that keeps them working. Most of what I ship runs in production for real users.
