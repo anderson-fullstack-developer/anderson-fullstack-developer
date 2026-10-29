@@ -67,8 +67,10 @@ async function fetchStats() {
         contributionsCollection {
           totalCommitContributions
           restrictedContributionsCount
-          totalPullRequestContributions
-          contributionCalendar { totalContributions }
+          contributionCalendar {
+            totalContributions
+            weeks { contributionDays { contributionCount } }
+          }
         }
       }
     }`,
@@ -110,7 +112,9 @@ async function fetchStats() {
     allTime,
     lastYear: c.contributionCalendar.totalContributions,
     commits: c.totalCommitContributions + c.restrictedContributionsCount,
-    pullRequests: c.totalPullRequestContributions,
+    activeDays: c.contributionCalendar.weeks
+      .flatMap((week) => week.contributionDays)
+      .filter((day) => day.contributionCount > 0).length,
     repos: user.repositories.totalCount,
     languages: [...languages.entries()]
       .map(([name, { size, color }]) => ({ name, size, color }))
@@ -122,7 +126,7 @@ const SAMPLE = {
   allTime: 1007,
   lastYear: 940,
   commits: 812,
-  pullRequests: 6,
+  activeDays: 160,
   repos: 11,
   languages: [
     { name: "TypeScript", size: 900, color: "#3178c6" },
@@ -154,7 +158,7 @@ function statsCard(stats, theme) {
     ["Contributions (all time)", stats.allTime],
     ["Contributions (last 12 months)", stats.lastYear],
     ["Commits (last 12 months)", stats.commits],
-    ["Pull requests (last 12 months)", stats.pullRequests],
+    ["Days with contributions (last 12 months)", stats.activeDays],
     ["Public repositories", stats.repos],
   ];
   const body = rows
