@@ -142,10 +142,10 @@ I'm a Full-Stack Developer based in **Lisbon, Portugal**. I build web applicatio
   </picture>
 </p>
 
-<p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=github-dark-blue&hide_border=false&border_radius=10">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=default&border_radius=10" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=github-dark-blue&border_radius=10">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=default&border_radius=10" width="495">
   </picture>
 </p>
 
