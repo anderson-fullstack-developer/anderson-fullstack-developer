@@ -3,7 +3,7 @@
   <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Most used languages (public repositories)</text>
   <clipPath id="bar"><rect x="24" y="56" width="447" height="10" rx="5"/></clipPath>
   <rect x="24" y="56" width="447" height="10" rx="5" fill="#21262d"/>
-  <g clip-path="url(#bar)"><rect x="24.00" y="56" width="247.17" height="10" fill="#3178c6"/><rect x="271.17" y="56" width="94.38" height="10" fill="#4F5D95"/><rect x="365.55" y="56" width="41.59" height="10" fill="#f1e05a"/><rect x="407.14" y="56" width="22.70" height="10" fill="#3572A5"/><rect x="429.84" y="56" width="21.98" height="10" fill="#e34c26"/><rect x="451.82" y="56" width="19.18" height="10" fill="#663399"/></g>
+  <g clip-path="url(#bar)"><rect x="24.00" y="56" width="247.17" height="10" fill="#3178c6"/><rect x="271.17" y="56" width="94.38" height="10" fill="#4F5D95"/><rect x="365.54" y="56" width="41.60" height="10" fill="#f1e05a"/><rect x="407.14" y="56" width="22.70" height="10" fill="#3572A5"/><rect x="429.84" y="56" width="21.98" height="10" fill="#e34c26"/><rect x="451.82" y="56" width="19.18" height="10" fill="#663399"/></g>
   <circle cx="30" cy="95" r="6" fill="#3178c6"/>
   <text x="44" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">TypeScript</text>
   <text x="224" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1" text-anchor="end">55.3%</text>
