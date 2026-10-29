@@ -1,157 +1,45 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Anderson Neto, Full-Stack Developer in Lisbon, Portugal" src="assets/banner-light.svg" width="100%">
+  <img alt="Anderson Neto, Full-Stack Developer, Lisbon" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://andersonneto.gt.tc"><img src="https://img.shields.io/badge/Portfolio-andersonneto.gt.tc-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/anderson-fullstack-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:andersonneto.dev.fullstack@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+I build web products end to end: interfaces in React and Next.js, APIs in Node.js, NestJS and FastAPI, relational data models, payments, real-time features and the CI that keeps them working. Most of what I ship runs in production for real users.
 
-## About me
+[Portfolio](https://andersonneto.gt.tc) · [LinkedIn](https://linkedin.com/in/anderson-fullstack-developer) · [Email](mailto:andersonneto.dev.fullstack@gmail.com)
 
-I'm a Full-Stack Developer based in **Lisbon, Portugal**. I build web applications end to end, from React and Next.js interfaces to REST APIs, databases and deployment.
+## In production
 
-- 💼 At **Brand22 Creative Agency** I built the agency's internal CRM and AI virtual assistants that are **live on public-sector websites**.
-- 🚀 I ship my own products too: a language-learning app with a real-time multiplayer arena, a Vinted alerts SaaS with 200+ tests and a multi-vendor marketplace.
-- 🧪 I care about the unglamorous parts: tests, CI, server-side validation, idempotent payments and clear documentation.
-- 🎯 **Open to Full-Stack, Frontend and Backend Developer roles in Portugal.**
+**Brand22 CRM.** The internal CRM of Brand22 Creative Agency: kanban sales pipeline, leads, tasks with staff/admin review and a token-based client portal for project approval. Leads from the agency's WordPress site arrive through a webhook, and a scheduled job sends proposal follow-ups.
+<br><sub>React · TanStack Start · TypeScript · serverless API on Vercel · MySQL · Resend · private repository</sub>
 
-## Tech stack
+**AI virtual assistants for public-sector websites.** Assistants for [CIMAT](https://cimat.pt/) and AMAT, and the Brand22 website chatbot. The widget talks to a WordPress REST route in PHP, so the model API key never reaches the browser.
+<br><sub>JavaScript · PHP · WordPress REST API · Claude API</sub>
 
-<p>
-  <b>Front-end</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&perline=12" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS">
-</p>
-<p>
-  <b>Back-end</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,python,fastapi&perline=12" alt="Node.js, Express, NestJS, PHP, Python, FastAPI">
-</p>
-<p>
-  <b>Data</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis&perline=12" alt="PostgreSQL, MySQL, Prisma, Redis">
-</p>
-<p>
-  <b>Tools and cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,aws&perline=12" alt="Docker, Git, GitHub, GitHub Actions, Vercel, AWS">
-</p>
+## Selected projects
 
-**Also familiar with:** C# / .NET · **Learning:** AWS
+| Project | What it is | Engineering highlights |
+|---|---|---|
+| **[Fala Neto](https://github.com/anderson-fullstack-developer/app_stp)** | Language-learning app with a real-time multiplayer arena | Turborepo monorepo (Expo, NestJS, TanStack Start); server-authoritative game rules in a pure, shared package; content review workflow with audit log; 114 tests in CI |
+| **[Garimpo](https://github.com/anderson-fullstack-developer/vinted)** | Multi-user SaaS that turns new Vinted listings into Telegram alerts | FastAPI background monitor that batches searches and backs off on rate limits; per-alert deduplication; rotating refresh tokens; Stripe billing; 200 Pytest tests in CI |
+| **[STP Market](https://github.com/anderson-fullstack-developer/ecommerce-marketplace)** | Multi-vendor marketplace with vendor approval and commissions | Prices recalculated on the server at checkout; idempotent Stripe webhook; stock decremented only after payment; Clerk for customers and Auth.js for staff in one middleware |
+| **[App Transfer](https://github.com/anderson-fullstack-developer/app_transfer)** | Family-to-student money transfers (simulation mode) | Modular monolith in NestJS; explicit transfer state machine; idempotency keys; decimal-safe money maths; integration tests against a real PostgreSQL in CI |
+| **[ScreenRoom](https://github.com/anderson-fullstack-developer/app_screm)** | Real-time screen sharing in private rooms | WebRTC through a LiveKit SFU, so media never touches the app server; centralised permission layer; Redis rate limiting; Vitest and Playwright |
+| **[RHNeto Pro](https://github.com/anderson-fullstack-developer/rhneto-pro)** | Restaurant staff management: panel and employee app | Two interfaces on one MySQL schema; request/approval flow for clock entries, tips and holidays; immutable payroll once a month is closed; Stripe subscriptions and SMS |
 
-## Professional work
+## How I work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/brand22-crm.webp" alt="Brand22 CRM dashboard" width="100%">
-      <h3>Brand22 CRM <sub>· in production</sub></h3>
-      Internal CRM for the agency: kanban sales pipeline, leads, tasks reviewed between staff and admin, and a client portal to approve projects. Website leads arrive through a webhook and a daily cron sends proposal follow-ups.
-      <br><br>
-      <code>React</code> <code>TanStack Start</code> <code>TypeScript</code> <code>Serverless API</code> <code>MySQL</code> <code>Resend</code>
-      <br><br>
-      🔒 Private repository (company project)
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/projects/cimat.webp" alt="CIMAT virtual assistant" width="100%">
-      <h3>CIMAT Virtual Assistant <sub>· in production</sub></h3>
-      AI assistant on the official website of the Comunidade Intermunicipal do Alto Tâmega e Barroso. The widget calls a WordPress REST route in PHP, so the AI key never reaches the browser. I also built the AMAT assistant and the Brand22 chatbot.
-      <br><br>
-      <code>JavaScript</code> <code>PHP</code> <code>WordPress REST API</code> <code>Claude API</code>
-      <br><br>
-      🌐 <a href="https://cimat.pt/">Live website</a>
-    </td>
-  </tr>
-</table>
+- **The server decides.** Prices, scores, permissions and state transitions are computed and validated on the server, never trusted from the client.
+- **Payments and side effects are idempotent.** Webhooks and retries cannot create duplicate orders or transfers.
+- **Tests and CI from the first module.** Type checking, linting, unit and integration tests run on every push.
+- **Secrets stay out of code and out of the browser.** Configuration is validated at startup, and production refuses to start with unsafe settings.
+- **Documentation is part of the work.** Each repository explains its architecture, decisions and how to run it.
 
-## Featured projects
+## Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/fala-neto.webp" alt="Fala Neto app" width="100%">
-      <h3>Fala Neto</h3>
-      Mobile app to learn African languages, with lessons, a daily challenge and a <b>real-time multiplayer Arena</b>. Server-authoritative game rules, a content review workflow and 114 tests in CI.
-      <br><br>
-      <code>Expo</code> <code>React Native</code> <code>NestJS</code> <code>Socket.IO</code> <code>Prisma</code> <code>Turborepo</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/app_stp">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/projects/garimpo.webp" alt="Garimpo" width="100%">
-      <h3>Garimpo</h3>
-      Multi-user SaaS that monitors new Vinted listings in the background, filters them per alert, removes duplicates and sends matches to Telegram in seconds. Stripe subscriptions and <b>200+ automated tests</b>.
-      <br><br>
-      <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Pytest</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/vinted">Repository</a> · 🌐 <a href="https://garimpo-xi-ten.vercel.app">Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/rhneto-pro.webp" alt="RHNeto Pro" width="100%">
-      <h3>RHNeto Pro <sub>· final project, 20/20</sub></h3>
-      Restaurant staff management: a management panel (staff, time clock, shifts, payroll with tips, holidays, reports) and an employee app on the same database.
-      <br><br>
-      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Stripe</code> <code>Infobip SMS</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/rhneto-pro">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/projects/stp-market.webp" alt="STP Market" width="100%">
-      <h3>STP Market</h3>
-      Multi-vendor marketplace for products from São Tomé and Príncipe: vendor approval, commissions, withdrawals and Stripe Checkout with an <b>idempotent webhook</b>.
-      <br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Stripe</code> <code>Clerk</code> <code>Auth.js</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/ecommerce-marketplace">Repository</a> · 🌐 <a href="https://stp-dusky.vercel.app">Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/screenroom.png" alt="ScreenRoom" width="100%">
-      <h3>ScreenRoom</h3>
-      Real-time screen sharing in private rooms over WebRTC, with invite links, host controls, room chat and an admin panel. Unit and end-to-end tests.
-      <br><br>
-      <code>Next.js</code> <code>LiveKit</code> <code>WebRTC</code> <code>PostgreSQL</code> <code>Redis</code> <code>Playwright</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/app_screm">Repository</a> · 🌐 <a href="https://app-screm.vercel.app">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/projects/app-transfer.png" alt="App Transfer" width="100%">
-      <h3>App Transfer</h3>
-      Family-to-student transfers (simulation mode) built as a modular monolith: transfer state machine, idempotency keys, money-safe maths and integration tests against a real database.
-      <br><br>
-      <code>NestJS</code> <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Jest</code> <code>Turborepo</code>
-      <br><br>
-      📂 <a href="https://github.com/anderson-fullstack-developer/app_transfer">Repository</a> · 🌐 <a href="https://marrocospay.vercel.app">Live demo</a>
-    </td>
-  </tr>
-</table>
+**Languages:** TypeScript, JavaScript, Python, PHP, SQL  
+**Front-end:** React, Next.js, TanStack Start, React Native (Expo), Tailwind CSS  
+**Back-end:** Node.js, NestJS, Express, FastAPI, REST, WebSockets (Socket.IO)  
+**Data:** PostgreSQL, MySQL, Prisma, Drizzle, SQLAlchemy, Redis  
+**Platform:** Docker, GitHub Actions, Vercel, Railway, Neon, Stripe
 
-## GitHub stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img alt="GitHub activity" src="assets/stats-light.svg" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <img alt="Most used languages" src="assets/languages-light.svg" width="49%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=github-dark-blue&border_radius=10">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=anderson-fullstack-developer&theme=default&border_radius=10" width="495">
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <img alt="Contribution graph eaten by a snake" src="assets/snake-light.svg" width="100%">
-</picture>
-
-<sub>Stats and the snake are regenerated every day by a GitHub Action in this repository.</sub>
+<sub>Open to full-stack roles in Portugal and remote.</sub>
